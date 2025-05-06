@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![WhatsApp Image 2025-05-06 at 10 34 38 AM](https://github.com/user-attachments/assets/6df88ffb-5480-40f4-b0c7-30092960771e)
+![WhatsApp Image 2025-05-06 at 10 34 48 AM](https://github.com/user-attachments/assets/dc2a9766-b26b-472e-95a0-5bacb73c4576)
 
-### Name:
-### Register Number:
+
+### Name:MIRZHA FATHIMA S
+### Register Number:212224230159
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
